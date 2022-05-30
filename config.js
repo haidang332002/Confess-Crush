@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi Anh <3',
     reply: 'Chị biết tuổi tác là 1 phần nhưng cảm ơn anh đã yêu thương chị suốt thời gian qua , chị không dám nói trước nhưng chị sẽ cố gắng ở bên cạnh anh ngay cả những lúc anh khó khăn nhất',
     mess: 'Anh biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Hãy luôn vui vẻ và mỉm cười nha cô gái của Anh.',
+    messDesc: 'Hãy luôn vui vẻ và mỉm cười nha cô gái của Anh..',
     btnAccept: 'Yêu em <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
